@@ -3,7 +3,7 @@ name: Trigger Vercel Deployment
 on:
   push:
     branches:
-      - main
+      - master
     paths:
       # 只在内容文件变化时触发
       - 'posts/**'
