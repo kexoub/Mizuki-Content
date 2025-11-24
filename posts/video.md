@@ -13,7 +13,7 @@ Just copy the embed code from YouTube or other platforms, and paste it in the ma
 ```yaml
 ---
 title: Include Video in the Post
-published: 2023-10-19
+published: 2023-10-18
 // ...
 ---
 
