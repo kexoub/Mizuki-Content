@@ -1,16 +1,3 @@
-# Vercel Deploy Hook 触发器
-# 
-# 当内容仓库更新时,通过 Vercel Deploy Hook 触发重新部署
-# 
-# 配置步骤:
-# 1. 在 Vercel 项目设置中获取 Deploy Hook URL
-#    Settings → Git → Deploy Hooks → Create Hook
-# 2. 在本仓库添加 Secret:
-#    Settings → Secrets → New repository secret
-#    Name: VERCEL_DEPLOY_HOOK
-#    Value: 粘贴 Deploy Hook URL
-# 3. 推送代码测试
-
 name: Trigger Vercel Deployment
 
 on:
