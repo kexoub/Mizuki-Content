@@ -18,7 +18,7 @@ jobs:
     steps:
       - name: Trigger Edgeone Deploy Hook
         run: |
-          response=$(curl -s -w "\n%{http_code}" -X POST "${{ secrets.edgeone_DEPLOY_HOOK }}")
+          response=$(curl -s -w "\n%{http_code}" -X POST "${{ secrets.EDGEONE_DEPLOY_HOOK }}")
           http_code=$(echo "$response" | tail -n1)
           
           if [ "$http_code" -eq 200 ] || [ "$http_code" -eq 201 ]; then
