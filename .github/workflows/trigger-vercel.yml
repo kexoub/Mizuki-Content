@@ -1,5 +1,7 @@
 name: Trigger Vercel Deployment
 
+# VERCEL_DEPLOY_HOOK
+
 on:
   push:
     branches:
