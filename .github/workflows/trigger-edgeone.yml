@@ -1,5 +1,7 @@
 name: Trigger Edgeone Deployment
 
+# EDGEONE_DEPLOY_HOOK 
+
 on:
   push:
     branches:
