@@ -1,5 +1,5 @@
 
-本网站是用**Astro**框架使用[Mizuki](https://github.com/matsuzaka-yuki/mizuki)主题构建的.
+本网站基于**Astro**框架使用[Mizuki](https://github.com/matsuzaka-yuki/mizuki)主题构建的，该项目基于 Apache License 2.0 许可。
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
 
