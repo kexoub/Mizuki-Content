@@ -1,7 +1,7 @@
 
 本网站基于**Astro**框架使用[Mizuki](https://github.com/matsuzaka-yuki/mizuki)主题构建的
 
-该项目基于 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html) 许可。
+该项目基于 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt) 许可。
 
 ::github{repo="matsuzaka-yuki/Mizuki"}
 
