@@ -13,7 +13,7 @@
 
 # 2.我的状态
 
-[![深色](https://runtimetrackersvg.072168.xyz/devices-svg?api=https://murasame52-runtime-tracker.hf.space/api/devices&theme=auto)]()
+[![深色](https://runtimetrackersvg.072168.xyz/devices-svg?api=https://murasame52-runtime-tracker.hf.space/api/devices&theme=dark)]()
 
 
 ---
