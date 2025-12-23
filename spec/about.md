@@ -11,6 +11,10 @@
 - **其实这个在博客前面的有不少博客hexo,hugo,rin,WordPress,Typecho,Fuwari** -不过实际都没有写过文章，基本
 - **所以我会尝试着写几篇，总得试试，不是吗**
 
+# 我的状态
+
+[![深色](https://runtimetrackersvg.072168.xyz/devices-svg?api=https://murasame52-runtime-tracker.hf.space/api/devices&theme=auto)]()
+
 
 ---
 
